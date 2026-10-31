@@ -24,7 +24,7 @@ On wide screens the widget (inside a phone frame) and the schedule are shown sid
 
 ## What is real in production and what is simulated here
 
-| | The product (in production since October 2026) | This demo |
+| | The product (in production) | This demo |
 |---|---|---|
 | Data | Own multi-tenant API with PostgreSQL | In memory and your browser's `localStorage` |
 | Payment | The centre's bank terminal via Redsys: card and Bizum, with refunds | Simulated screen: nothing is charged and no card details are asked for |
